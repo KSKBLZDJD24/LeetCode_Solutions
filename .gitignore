@@ -1,0 +1,35 @@
+# ---- Visual Studio 构建产物（不提交）----
+x64/
+Debug/
+Release/
+ipch/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.exp
+*.lib
+*.iobj
+*.ipdb
+*.tlog
+*.idb
+*.lastbuildstate
+*.map
+*.log
+
+# ---- VS 用户配置 / 缓存 ----
+.vs/
+*.user
+*.suo
+*.aps
+*.sdf
+*.VC.db
+*.VC.opendb
+*.cache
+
+# ---- 系统垃圾 ----
+Thumbs.db
+desktop.ini
+.DS_Store
